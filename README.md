@@ -1,4 +1,4 @@
-1. We have to install argocd into the kubernetes cluster .
+1. We have to install argocd into the kubernetes cluster.
      
        $ kubectl create ns argocd		
   
